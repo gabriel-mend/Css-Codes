@@ -6,7 +6,7 @@
 
 <h3>Nav 2:</h3>
 
-![nav 2](https://user-images.githubusercontent.com/49095200/67151813-8b2ab880-f2a1-11e9-9296-eb8787fc3f33.jpg)
+![nav 2](https://user-images.githubusercontent.com/49095200/67151851-51a67d00-f2a2-11e9-991e-c9caef03972f.jpg)
 
 <h3>Nav 3:</h3>
 
