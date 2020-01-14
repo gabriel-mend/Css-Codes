@@ -3,8 +3,8 @@ const openMenu = document.querySelector('.open-menu')
 const closeMenu = document.querySelector('.close-menu')
 
 openMenu.onclick = () => {
-    menu.style.height = "100%"
+    menu.style.width    = "100%"
 }
 closeMenu.onclick = () => {
-    menu.style.height = "0%"
+    menu.style.width = "0%"
 }
